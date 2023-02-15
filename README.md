@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+This repository contains the README and documentation I've created throughout the years working as a DevOps Engineer, I'm trying to constantly update these with new items and step-by-steps I find useful.
+
+>Last updated on (15 / February / 2023)
+
+# Index
+
+- Linux
+    - How to install Guest Additions on a VM (Ubuntu)
+    - 
 
 <!--
 **Brandeso/Brandeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
