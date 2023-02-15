@@ -10,8 +10,7 @@ This repository contains the README and documentation I've created throughout th
 
 ## Index
 
-- [Tips and Tricks]
+- [Tips and Tricks](https://github.com/Brandeso/Brandeso/blob/main/TipsAndTricks.md)
 - [Linux](https://github.com/Brandeso/Brandeso/tree/main/linux)
 
   - [How to install Virtual Box Guest Additions.](https://github.com/Brandeso/Brandeso/blob/main/linux/GuestAdditions.md)
-  
