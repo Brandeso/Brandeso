@@ -2,7 +2,7 @@
 
 > Last updated on (15 / February / 2023)
 >
-> This tutorial was tested on Lubuntu 22.04.1 [Reference.](https://linuxize.com/post/how-to-install-virtualbox-guest-additions-in-ubuntu/) (13 / February / 2022)
+> This tutorial was tested on Lubuntu 22.04.1 [Reference.](https://linuxize.com/post/how-to-install-virtualbox-guest-additions-in-ubuntu/) (13 / February / 2023)
 
 1. Once you have started your VM, open a terminal as a sudo user and run the following commands:
 

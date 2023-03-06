@@ -4,7 +4,7 @@
 
 In this guide, we will cover the next linux topics:
 
-All these topics have been tested as of (15 / February / 2022)
+All these topics have been tested as of (15 / February / 2023)
 
 - How to create a virtual machine.
 - [How to install Virtual Box Guest Additions.](https://github.com/Brandeso/Brandeso/blob/main/linux/GuestAdditions.md)
