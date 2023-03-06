@@ -1,6 +1,6 @@
 # Brandeso's Wiki
 
-> Last updated on (15 / February / 2023)
+> Last updated on (06 / March / 2023)
 
 ## Hi there 👋
 
@@ -13,4 +13,4 @@ This repository contains the README and documentation I've created throughout th
   - [How to install Virtual Box Guest Additions.](https://github.com/Brandeso/Brandeso/blob/main/linux/GuestAdditions.md)
 - [NodeJs](https://github.com/Brandeso/Brandeso/tree/main/nodejs)
   - [How to create a NodeJs Project (using npm).](https://github.com/Brandeso/Brandeso/blob/main/nodejs/CreateProject.md)
-  - How to create a NodeJs Project using typescript
+  - [How to create a NodeJs Project using typescript](https://github.com/Brandeso/Brandeso/blob/main/nodejs/CreateTypescript.md)
