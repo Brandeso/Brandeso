@@ -60,7 +60,7 @@ npm -v
     npm i --save-dev nodemon
     ```
 
-4. Let's write the base file for our server, it will be inside the `dist` folder, `app.ts`
+4. Let's write the base file for our server, it will be inside the `src` folder, `app.ts`
 
     ```typescript
     import express from 'express';
